@@ -54,13 +54,21 @@ Namn: Tindra von Zweigbergk
 4. Analys
     Resultatet av programmet visar hur man kan ta rådata från ett API och omvandlaa det till strukturerade mätvärden och till ett användarvänligt program. 
 
-5. Reflektion
+
+5. Branchanalys
+    I dagens samhälle där IT och AI blir en allt större del av vårt samhälle är det viktigt att kunna ta in realtidsdata för ex. kollektivtrafik. Det här projektet jag har gjort skulle jag säga är ett litet exempel på hur en framtida AI-utvecklare kan samla in data från en källa (i detta fall en API) för att sedan skapa framtida AI-modeller som kan förutse vilka sträckor bland pendeltågen som har störst risk att bli försenade.
+
+6. Certifikat-koll
+
+7. Reflektion
     Jag hade från bröjan skrivit ett program för elprisanalys men bytte sedan till att analysera tågtrafiken i Stockholm.R
 
-6. AI-Användning
+8. AI-Användning
     Under skapandet av projektet har jag använt mig av AI som ett stöd för att debugga och feltesta mitt program. Den har varit ett stöd under skapandet av projektet och har hjälpt mig att förstå mer hur API-anrop fungerar, då det var det momentet jag tyckte var extra svårt.
+
+
     
-7. GitHub-Länk
+9. GitHub-Länk
    https://github.com/tindra9800/t-g_och-trafikanalys_stockholm 
 
     
