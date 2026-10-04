@@ -5,8 +5,6 @@ Namn: Tindra von Zweigbergk
 1. Mål
     Mitt mål med detta projekt är att automatisera insamling, rensning samt visualisering över riktig data för pendeltågen i Stockholm. För att förenkla programmet valde jag de viktigaste pendeltågsstationerna Stockholm Central och Odenplan.
 
-    (Från ett AI-perspektiv kan det här projektet lösa de vanligaste problemen med datainsamling)
-
 2. Metod
     1. Hämta data från API som är tagen från Trafiklabb
     2. Analysera API-datan
@@ -62,9 +60,7 @@ Namn: Tindra von Zweigbergk
 6. AI-Användning
     Under skapandet av projektet har jag använt mig av AI som ett stöd för att debugga och feltesta mitt program. Den har varit ett stöd under skapandet av projektet och har hjälpt mig att förstå mer hur API-anrop fungerar, då det var det momentet jag tyckte var extra svårt.
     
-7. Yrkescertifikat relevanta till projektet
-    För mig som framtida AI-utvecklare
-
-. GitHub-Länk
+7. GitHub-Länk
+   https://github.com/tindra9800/t-g_och-trafikanalys_stockholm 
 
     
