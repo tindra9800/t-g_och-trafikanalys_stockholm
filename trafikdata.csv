@@ -1,10 +1,11 @@
-Stockholm Odenplan,41,Märsta,2026-10-04T14:47:00,0,I tid
-Stockholm Odenplan,40,Älvsjö,2026-10-04T14:49:00,0,I tid
-Stockholm Odenplan,43,Västerhaninge,2026-10-04T14:46:00,7,Försenad (7 min)
-Stockholm Odenplan,41,Södertälje centrum,2026-10-04T14:57:00,0,I tid
-Stockholm Odenplan,43,Bålsta,2026-10-04T14:58:00,0,I tid
-Stockholm Odenplan,41,Märsta,2026-10-04T15:02:00,0,I tid
-Stockholm Odenplan,43,Nynäshamn,2026-10-04T15:01:00,5,Försenad (5 min)
-Stockholm Odenplan,40,Uppsala C,2026-10-04T15:10:00,0,I tid
-Stockholm Odenplan,41,Södertälje centrum,2026-10-04T15:12:00,0,I tid
-Stockholm Odenplan,43,Kungsängen,2026-10-04T15:13:00,0,I tid
+Station,Linje,Destination,Tid,Försening (min),Status
+Stockholm Odenplan,43,Bålsta,2026-10-04T22:58:00,0,I tid
+Stockholm Odenplan,43,Västerhaninge,2026-10-04T23:01:00,0,I tid
+Stockholm Odenplan,41,Södertälje centrum,2026-10-04T23:04:00,0,I tid
+Stockholm Odenplan,40,Uppsala C,2026-10-04T23:10:00,0,I tid
+Stockholm Odenplan,43,Kungsängen,2026-10-04T23:13:00,0,I tid
+Stockholm Odenplan,43,Västerhaninge,2026-10-04T23:16:00,0,I tid
+Stockholm Odenplan,40,Södertälje centrum,2026-10-04T23:19:00,0,I tid
+Stockholm Odenplan,41,Märsta,2026-10-04T23:25:00,0,I tid
+Stockholm Odenplan,43,Bålsta,2026-10-04T23:28:00,0,I tid
+Stockholm Odenplan,43,Tungelsta,2026-10-04T23:31:00,0,I tid
